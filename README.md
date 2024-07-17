@@ -1,5 +1,6 @@
-<div align="center">
-  ## <a name="tech-stack">⚙️ Tech Stack</a>
+## Aora React Native Social App
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React Native
 - Expo
