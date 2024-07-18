@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jsm.sora"
+      "package": "lk.ijse.aora"
     },
     "web": {
       "favicon": "./assets/favicon.png"
