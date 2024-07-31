@@ -80,6 +80,6 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
 <img src="./aora/screenshots/8.jpg" width=30%>
 <img src="./aora/screenshots/9.jpg" width=30%>
 <img src="./aora/screenshots/10.jpg" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/11.jpg" width=30%>
+<img src="./aora/screenshots/11.jpg" width=30%>
 <img src="./chatgpt-clone-react-native/screenshots/12.jpg" width=30%>
 </div>
