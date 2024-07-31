@@ -52,7 +52,7 @@ cd aora
 ```
 **Installation**
 
-Install the project dependencies using npm:
+Install the project dependencies using npm :
 
 ```bash
 npm install
