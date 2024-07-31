@@ -72,16 +72,14 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
 <div style="display: flex; flex-direction: 'row';">
 <img src="./aora/screenshots/1.jpg" width=30%>
 <img src="./aora/screenshots/2.jpg" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/3.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/4.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/5.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/6.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/7.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/8.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/9.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/10.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/11.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/12.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/13.png" width=30%>
-<img src="./chatgpt-clone-react-native/screenshots/14.png" width=30%>
+<img src="./aora/screenshots/3.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/4.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/5.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/6.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/7.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/8.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/9.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/10.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/11.jpg" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/12.jpg" width=30%>
 </div>
